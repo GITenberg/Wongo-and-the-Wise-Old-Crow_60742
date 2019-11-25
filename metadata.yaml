@@ -1,5 +1,8 @@
 _repo: Wongo-and-the-Wise-Old-Crow_60742
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 60742-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Moon, Grace
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '51118'
     url: http://www.gutenberg.org/2009/agents/51118
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60742#Wongo-and-the-Wise-Old-Crow
 gutenberg_issued: '2019-11-20'
 gutenberg_type: Text
 identifiers:
